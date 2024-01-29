@@ -1,0 +1,4 @@
+.venv/
+chroma/
+langchain_webloader.py
+simple_local.py

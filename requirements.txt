@@ -1,0 +1,6 @@
+langchain
+ipython
+chromadb
+bs4
+unstructured
+sentence-transformers
